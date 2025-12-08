@@ -4,7 +4,7 @@
   <ul align="center" style="list-style: none">
     <summary>
       <h1>
-        Hi, my name is Amanda <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="25" height="25" />
+        Hi, my name is Amanda <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="40" height="40" />
       </h1>
     </summary>
   </ul>
@@ -17,7 +17,7 @@
 - 💼 I'm currently working on: **developing an interoperability framework that enables agents built on different frameworks to communicate seamlessly using the A2A protocol and MCP.**
 - 🌱 I'm currently learning: **📚 I’m diving into reinforcement learning for agent pipelines **
 - 💬 Ask me about: **💡 RAG, agentic pipelines, smart chatbots, LLMs, and modern AI systems.**
-- ⚡ Fun fact: **I’m an AI engineer powered by coffee… and cats. 😼**
+- ⚡ Fun fact: **I’m an AI engineer powered by coffee… and cats. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" alt="Cat Face" width="25" height="25" />**
 - 📝 Blog: **<a href="https://amsilveira-ce.github.io/gh-amsilveira.io/" target="_blank">https://amsilveira-ce.github.io/gh-amsilveira.io/</a>**
 
 
