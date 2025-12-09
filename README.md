@@ -10,7 +10,7 @@
   </ul>
 </div>
 
- **<h3 align="center">I’m an AI Engineer based in Brazil, currently working part-time at IBM Research. I explore the next generation of large language models and autonomous AI agents, pushing the boundaries of what intelligent systems can do. I have experience building agentic pipelines for  demonstrations at IBM and RAG systems across popular frameworks such as LangChain, LangGraph, AutoGen, LangFlow, and IBM technologies like Watsonx Orchestrate and BeeAI.</h3>**
+ <h3 align="center">I’m an AI Engineer based in Brazil, currently working part-time at IBM Research. I explore the next generation of large language models and autonomous AI agents, pushing the boundaries of what intelligent systems can do. I have experience building agentic pipelines for  demonstrations at IBM and RAG systems across popular frameworks such as LangChain, LangGraph, AutoGen, LangFlow, and IBM technologies like Watsonx Orchestrate and BeeAI.</h3>
 
 **<h3 align="left">Rapid Fire</h3>**
 
@@ -18,7 +18,7 @@
 - 🌱 I'm currently learning: **📚 I’m diving into reinforcement learning for agent pipelines **
 - 💬 Ask me about: **💡 RAG, agentic pipelines, smart chatbots, LLMs, and modern AI systems.**
 - ⚡ Fun fact: **I’m an AI engineer powered by coffee… and cats. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" alt="Cat Face" width="25" height="25" />**
-- 📝 Blog: **<a href="https://amsilveira-ce.github.io/gh-amsilveira.io/" target="_blank">https://amsilveira-ce.github.io/gh-amsilveira.io/</a>**
+- 📝 Blog: **<a href="https://amsilveira-ce.github.io/gh-amsilveira.io/" target="_blank">https://amsilveira-ce.github.io/blog/</a>**
 
 
  **<h3 align="center">Skills</h3>**
