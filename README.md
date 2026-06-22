@@ -1,32 +1,76 @@
-![Hi, my name is Amanda 🤝](https://64.media.tumblr.com/9429cbd4d6d893fbd1e3f90419dee05c/db568c8e11797355-67/s1280x1920/03d4f9c5971b87aadc0cd223f14e0535f500866c.gifv)
-
-<div id="toc">
-  <ul align="center" style="list-style: none">
-    <summary>
-      <h1>
-        Hi, my name is Amanda <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="40" height="40" />
-      </h1>
-    </summary>
-  </ul>
-</div>
-
- <h3 align="center">I’m an AI Engineer based in Brazil, currently working part-time at IBM Research. I explore the next generation of large language models and autonomous AI agents, pushing the boundaries of what intelligent systems can do. I have experience building agentic pipelines for  demonstrations at IBM and RAG systems across popular frameworks such as LangChain, LangGraph, AutoGen, LangFlow, and IBM technologies like Watsonx Orchestrate and BeeAI.</h3>
-
-**<h3 align="left">Rapid Fire</h3>**
-
-- 💼 I'm currently working on: **developing an interoperability framework that enables agents built on different frameworks to communicate seamlessly using the A2A protocol and MCP.**
-- 🌱 I'm currently learning: **📚 I’m diving into reinforcement learning for agent pipelines **
-- 💬 Ask me about: **💡 RAG, agentic pipelines, smart chatbots, LLMs, and modern AI systems.**
-- ⚡ Fun fact: **I’m an AI engineer powered by coffee… and cats. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" alt="Cat Face" width="25" height="25" />**
-- 📝 Blog: **<a href="https://amsilveira-ce.github.io/gh-amsilveira.io/" target="_blank">https://amsilveira-ce.github.io/blog/</a>**
 
 
- **<h3 align="center">Skills</h3>**
+<img src="https://64.media.tumblr.com/9429cbd4d6d893fbd1e3f90419dee05c/db568c8e11797355-67/s1280x1920/03d4f9c5971b87aadc0cd223f14e0535f500866c.gifv" width="100%" />
+<h1 align="center">
+  Hi, I'm Amanda
+  <img src="https://registry.npmmirror.com/@lobehub/fluent-emoji-3d/latest/files/assets/1f970.webp" alt="Beaming Face with Smiling Eyes" width="35" height="35" />  
+</h1>
 
-<div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;"><img src="https://img.shields.io/badge/Python-306998?logo=python&logoColor=white" height="28" alt="Python" style="margin-right: 8px"> <img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="28" alt="JavaScript" style="margin-right: 8px"> <img src="https://img.shields.io/badge/C%2B%2B-F34B7F?logo=c%2B%2B&logoColor=white" height="28" alt="C++" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Shell-4EAA25?logo=gnu-bash&logoColor=white" height="28" alt="Shell" style="margin-right: 8px"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" height="28" alt="PyTorch" style="margin-right: 8px"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" height="28" alt="TensorFlow" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white" height="28" alt="Scikit-learn" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white" height="28" alt="Keras" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Hugging_Face-FF6F91?logo=huggingface&logoColor=white" height="28" alt="Hugging Face" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" height="28" alt="Pandas" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white" height="28" alt="Scikit-learn" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="28" alt="Docker" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" height="28" alt="Kubernetes" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" height="28" alt="Postman" style="margin-right: 8px"> <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" height="28" alt="FastAPI" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&logoColor=white" height="28" alt="Node.js" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" height="28" alt="Flask" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Laravel-F05032?logo=laravel&logoColor=white" height="28" alt="Laravel" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" height="28" alt="Express" style="margin-right: 8px"> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" height="28" alt="OpenCV" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white" height="28" alt="Playwright" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white" height="28" alt="Firebase" style="margin-right: 8px"> <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="28" alt="React" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D" height="28" alt="Vue" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" height="28" alt="Tailwind CSS" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white" height="28" alt="Unity" style="margin-right: 8px"> <img src="https://img.shields.io/badge/NLTK-4B8BBE?logo=nltk&logoColor=white" height="28" alt="NLTK" style="margin-right: 8px"></div>
+**Building the infrastructure layer for multi-agent AI systems.**
 
- **<h3 align="left">GitHub Stats</h3>**
+I design systems where AI agents built on different frameworks — LangChain, AutoGen, CrewAI, Google ADK — discover and collaborate with each other at runtime, without point-to-point adapters. My current focus is agent interoperability, distributed orchestration, and making small models do what people think requires 90B parameters.
 
-<p align="left">
-  <img width="48%" src="https://streak-stats.demolab.com/?user=amsilveira-ce&theme=calm&hide_border=false&border_radius=5.5&date_format=M+j%5B%2C+Y%5D&mode=daily&disable_animations=false&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&exclude_days=&locale=en&card_height=200" alt="GitHub streak Card" />
-</p>
+Currently finishing my Computer Engineering degree at PUC-Campinas and working as an AI Engineer at IBM. Fueled by coffee and supervised by cats. ☕🐈
+
+---
+
+## 🔨 What I'm building
+
+**[Axon](https://github.com/amsilveira-ce/Axon)** — open-source infrastructure for multi-agent AI.
+Agents register once. Any workflow can use them. Dynamic discovery via A2A + MCP, with UCB1-based gateway routing that learns which resources work best over time.
+
+```bash
+pip install axon-framework
+axon init && axon ga serve
+axon pa run --query "your task here"
+```
+
+Based on my Bachelor's thesis — 7 experiments, validated end-to-end across Gateway and Principal Agent components.
+
+---
+
+## 🧠 Background
+
+- 👩‍💻 AI Engineer @ IBM Research (2024–2025) and IBM Consulting (2025–present)
+- 🚀 Deployed HuggingFace LLMs with vLLM on Red Hat OpenShift — the setup later benchmarked IBM vs NVIDIA hardware for LLM workloads
+- ⚡ Cut IVR analysis time from 1–2 business days to under 3 hours with a Python/Ollama pipeline — became a reusable asset across IBM LATAM consulting teams
+- 🏆 Made it to the Cubo Itaú finals in B3's entrepreneurship competition — out of 500+ applicants
+- 💪 Helped revive the competitive programming team at PUC-Campinas (and convinced my professor to fund us 😄)
+
+---
+
+##  A few things people don't expect
+
+Before I was building agent frameworks, I was building in other ways.
+
+I was one of the first people to publish tutorials on how to create custom skins in KoGaMa — a Minecraft-style browser game — back when the community was still figuring it out. Thousands of kids used those tutorials. That was my first experience teaching technical concepts to strangers on the internet, and I haven't stopped since. 🎮
+
+I also spent years doing 3D modeling in Blender 🎨 — it taught me something that translates directly to systems design: the difference between something that *looks* correct and something that *is* correct under the surface.
+
+---
+
+## ✍️ Writing
+
+I write about the internals of AI systems — not tutorials, but the design decisions and tradeoffs that don't make it into documentation.
+
+- 🎯 [Why I used UCB1 to route between AI agents](https://amsilveira-ce.github.io/blog/) *(coming soon)*
+- 🔬 [Implementing multi-head attention from scratch](https://kaggle.com) *(Kaggle notebook)*
+
+---
+
+## 🛠️ Stack
+
+The tools I reach for, roughly in order of frequency:
+
+`Python` `PyTorch` `FastAPI` `LangGraph` `A2A` `MCP` `Ollama` `vLLM` `Red Hat OpenShift` `Docker`
+
+Frameworks I've built things with: `AutoGen` `LangChain` `CrewAI` `HuggingFace`
+
+---
+
+## 🔗 Elsewhere
+
+[LinkedIn](https://linkedin.com/in/amanda-silveira-a6923028b) · [Kaggle](https://kaggle.com) · [Blog](https://amsilveira-ce.github.io/blog/)
+
+> *"Sometimes it is the people no one imagines anything of who do the things that no one can imagine."*
+> — Alan Turing 🖤
